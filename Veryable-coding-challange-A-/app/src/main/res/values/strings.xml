@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Veryable Coding Challenge</string>
+    <string name="welcome_to_veryable_coding_challenge">Welcome To Veryable Coding Challenge</string>
+    <string name="accounts_header">Accounts</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="cards">Cards</string>
+    <string name="details">Details</string>
+    <string name="bank_account_ach_same_day">Bank Account: ACH - Same Day</string>
+</resources>
